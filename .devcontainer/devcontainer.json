@@ -1,5 +1,5 @@
 {
-    "name": "Python Dev",
+    "name": "Algelab DevContainer",
     "build": {
         "dockerfile": "Dockerfile",
         "context": ".."
